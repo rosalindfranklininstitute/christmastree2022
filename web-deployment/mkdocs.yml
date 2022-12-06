@@ -1,0 +1,15 @@
+site_name: Christmas Dream
+extra_css:
+  - stylesheets/snowflakes.css
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: amber
+  logo: assets/images/logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+
