@@ -1,6 +1,4 @@
 site_name: Christmas Dream
-extra_css:
-  - stylesheets/snowflakes.css
 theme:
   name: material
   palette:
