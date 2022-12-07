@@ -1,4 +1,7 @@
-# Snowflake Diffraction
+---
+title: Snowflake Diffraction
+ᴴₒᴴₒᴴₒ: true
+---
 
 In much of electron microscope and x-ray imaging we measure the diffraction patterns of the object and use a computer program to recreate the structures from the diffraction pattern.
 Diffraction is a phenomenon that occurs when a wave passes through an aperture, a similar size to it's wavelength. You can see this in picture of the bay below (https://www.flickr.com/photos/ozzrod/33811299806), where the distance of the cliffs is equivalent to the wavelengths of the waves passing through.

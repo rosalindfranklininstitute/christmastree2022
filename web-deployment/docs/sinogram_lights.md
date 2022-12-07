@@ -1,4 +1,7 @@
-# Sinogram Lights
+---
+title: Sinogram Lights
+ᴴₒᴴₒᴴₒ: true
+---
 
 ** WARNING: CONTAINS MATHEMATICAL CONCEPTS **
 
