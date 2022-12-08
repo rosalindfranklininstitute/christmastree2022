@@ -1,0 +1,16 @@
+site_name: Christmas Dream
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: teal
+
+  logo: assets/images/logo.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+# extra_css:
+#   - assets/stylesheets/extra.css
+
