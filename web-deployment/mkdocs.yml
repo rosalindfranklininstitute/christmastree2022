@@ -2,7 +2,7 @@ site_name: Christmas Dream
 theme:
   name: material
   palette:
-    scheme: slate
+    scheme: default
     primary: indigo
     accent: teal
 
@@ -11,6 +11,6 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
-# extra_css:
-#   - assets/stylesheets/extra.css
+extra_css:
+  - assets/stylesheets/extra.css
 
