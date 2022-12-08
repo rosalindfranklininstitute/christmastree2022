@@ -23,7 +23,8 @@ jobs:
           image: christmasdream
           tags: latest ${{ github.ref_name }}
           containerfiles: |
-            ./Dockerfile
+            ./web-deployment/Dockerfile
+          context: ./web-deployment
 
       - name: Push To quay.io
         id: push-to-quay
