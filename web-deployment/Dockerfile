@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:8.5.11 as build
+FROM squidfunk/mkdocs-material:9.0.0b3 as build
 
 COPY mkdocs.yml /docs/mkdocs.yml
 COPY docs /docs/docs
