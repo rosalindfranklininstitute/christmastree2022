@@ -11,5 +11,5 @@ This year the theme of the AI tree is *Xmas-tallography*. We have decorated our 
 def seasons_greetings( a_friend ):
     print( f"Merry Christmas to {a_friend}")
 
-seasons_greetings( "to all Franklin Staff!")
+seasons_greetings( "all Franklin Staff!")
 ```
