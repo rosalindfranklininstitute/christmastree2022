@@ -1,0 +1,23 @@
+@keyframes snow {
+	0% {
+		fill-opacity: 1;
+	}
+	100% {
+		fill-opacity: 0;
+		transform: translateY(70%);
+	}
+}
+
+body {
+	overflow-x: hidden;
+	color: #080000;
+	margin: 0 auto;
+	background-color: rgba(0, 0, 0, 0.3);
+	background-image: url('santas-workshop.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-blend-mode: soft-light;
+	min-height: 100vh;
+}
+
