@@ -1,0 +1,1 @@
+A decision tree is a statistical method for making decisions. The tree represents decisions and their consequences as you move down the tree you get to the final decision. You may recognise these methods from magazine quizzes, we have build a decision tree here to decide if you are naughty or nice! Have fun following the questions!

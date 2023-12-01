@@ -1,0 +1,7 @@
+A neural network is a type of algorithm that is based on layers of connected nodes. It can makes decisions by evaluating weights at each of the nodes and then passes the result on to the node in the next layer. Each node has a minimisation function that it uses to determine the weights. A network is trained on a sample of data and then is used to make predictions on new data. We know which members of the AI theme won't be getting presents this year, will you?!
+
+Our Christmas tree represents a fully connected neural network (FCNN) where all nodes are connected to all nodes on the precedeing and next layer. The network is a Naughty / Nice classifier to determine if you will get any presents. The nodes are represent by our crafted decorations and the network is represented by tinsel. Our input is you, represented by a mirror! And our output is coal and presents depending on how you have been classified!
+
+![image](./assets/images/christmas_FCNN.png)
+
+A christmas tree showing the representation of a neural network. Input/output shown in blue circles, nodes in layer 1 represented by stars and nodes in layer 2 represneted by red oblongs.
